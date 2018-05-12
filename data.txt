@@ -1,0 +1,165 @@
+WiFi Router	TP-Link	TL-WDR4900	2.0 (CN)	14.07	15.05.1	720	8	128	-	5		No	b/g/n	a/n		2x 2.0	tl-wdr4900	View/Edit data
+2	WiFi Router	TP-Link	TL-CPE210	v1	14.07	15.05	560	8	64	2	-	1 (PoE) + 1 (PoE pass through)	No	b/g/n	-		-	tl-cpe210	View/Edit data
+3	WiFi Router	TP-Link	TL-WA801ND	v2	14.07	15.05	535	4	32	1	-		No	b/g/n	-		¿		View/Edit data
+4	WiFi Router	TP-Link	TL-WA850RE	v1	14.07	15.05	535	4	32	1	-		No	b/g/n	-		-	tl-wa850re	View/Edit data
+5	Travel Router	TP-Link	TL-WR703N	v1	12.09	15.05	400	4	32	1	-		No	b/g/n	-		1x 2.0	tl-wr703n	View/Edit data
+6	Travel Router - Battery powered	TP-Link	TL-MR10U	v1	14.07	15.05	400	4	32	1	-		No	b/g/n	-		1x 2.0, 1x µUSB (charging)	tl-mr10u	View/Edit data
+7	Travel Router - Battery powered	TP-Link	TL-MR12U	1.0	15.05	15.05	400	4	32	1	-		No	b/g/n	-		1x 2.0, 1x µUSB (charging)	tl-mr12u	View/Edit data
+8	Travel Router	TP-Link	TL-WR710N	1.1 (EU)	14.07	15.05	400	8	32	2	-		No	b/g/n	-		1x 2.0	tl-wr710n	View/Edit data
+9	WiFi Router	TP-Link	TL-MR3220	V2	12.09	15.05	400	4	32	5	-		No	b/g/n	-	1x1:1	1x 2.0	tl-mr3220	View/Edit data
+10	Travel Router - Battery powered	TP-Link	TL-MR11U	1	12.09	15.05	400	4	32	1	-		No	b/g/n	-		1x 2.0, 1x µUSB (charging)	tl-mr11u	View/Edit data
+11	Travel Router - Battery powered	TP-Link	TL-MR13U	1.0	14.07	15.05	400	4	32	1			No	b/g/n	-		1x 2.0, 1x µUSB (charging)	tl-mr13u	View/Edit data
+12	WiFi Router	TP-Link	TL-WR740N	v4.20, v4.21, v4.22, v4.25, v4.26, v4.27, v4.28	12.09	14.07	400	4	32	5	-		No	b/g/n	-		-	tl-wr740n	View/Edit data
+13	WiFi Router	TP-Link	TL-WR743ND	2	14.07	15.05	350	4	32	5	-		No	b/g/n	-		¿	tl-wr743nd	View/Edit data
+14	WiFi Router	TP-Link	TL-WR941ND	v5	12.09	15.05	535	4	32	5	-		No	b/g/n	-		-	tl-wr941nd	View/Edit data
+15	WiFi Router	TP-Link	TL-WR1041N	v2	12.09	15.05	560	4	32	-	5		No	b/g/n	-		1x 2.0	tl-wr1041n	View/Edit data
+16	WiFi Router	TP-Link	TL-WR1043ND	v3.x	¿	15.05.1	720	8	64	-	5		No	b/g/n	-		1x 2.0	tl-wr1043nd	View/Edit data
+17	WiFi Router	TP-Link	TL-MR3420	v1, v1.1, v1.2, v1.3	10.03.1	15.05	400	4	32	5	-		No	b/g/n	-		1x 2.0	tl-mr3420	View/Edit data
+18	WiFi Router	TP-Link	TL-WR841N(D)	v10	15.05.1	15.05.1	560	4	32	5	-	1 WAN + 4x LAN	No	b/g/n	-		-	tl-wr841nd	View/Edit data
+19	WiFi Router	TP-Link	TL-WR841N(D)	5	10.03	15.05	400	4	32	5	-		No	b/g/n	-		-	tl-wr841nd	View/Edit data
+20	Travel Router	TP-Link	TL-WR720N	v4 (CN)	15.05	15.05	400	4	32	2	-		No	b/g/n	-		1x 2.0	tl-wr720n	View/Edit data
+21	WiFi Router	TP-Link	TL-WR841N(D)	7	12.09	15.05	400	4	32	5	-		No	b/g/n	-		-	tl-wr841nd	View/Edit data
+22	WiFi Router	TP-Link	TL-WR841N(D)	8	12.09	15.05	535	4	32	5	-		No	b/g/n	-		-	tl-wr841nd	View/Edit data
+23	WiFi Router	TP-Link	TL-WR841N(D)	9	14.07	15.05	550	4	32	5	-		No	b/g/n	-		-	tl-wr841nd	View/Edit data
+24	WiFi Router	TP-Link	TL-WR841N(D)	1, 1.5	10.03	15.05	300	4	32	5	-		No	b/g/n	-		-	tl-wr841nd	View/Edit data
+25	WiFi Router	TP-Link	TL-WA901ND	v1	10.03.1	15.05	400	4	32	1	-		No	b/g/n	-		-	tl-wa901nd	View/Edit data
+26	WiFi Router	TP-Link	TL-WA901ND	v2	12.09	15.05	400	4	32	1	-		No	b/g/n	-		-	tl-wa901nd	View/Edit data
+27	WiFi Router	TP-Link	TL-WA901ND	v3	14.07	15.05	533	4	32	1	-	Support Passive PoE	No	b/g/n	-	2x2:2 MIMO	-	tl-wa901nd	View/Edit data
+28	WiFi Router	TP-Link	TL-WDR3500	1.0	14.07	15.05	560	8	128	5	-		No	b/g/n	a/n		1x 2.0	tl-wdr3500	View/Edit data
+29	WiFi Router	TP-Link	Archer C50	v1	external image	external image	580	8	64	5	-		No	b/g/n	a/n/ac	2x2	1x 2.0	archer-c50	View/Edit data
+30	WiFi Router	TP-Link	TL-WR743ND	1, 1.1	12.09	15.05	350	4	32	5	-		No	b/g/n	-		Mod	tl-wr743nd	View/Edit data
+31	WiFi Router	TP-Link	TL-MR3220	1	10.03.1	15.05	400	4	32	5	-		No	b/g/n	-		1x 2.0	tl-mr3220	View/Edit data
+32	WiFi Router	TP-Link	TL-WA701ND	v1-v1.1	12.09	15.05	400	4	32	1	-		No	b/g/n	-		-	tl-wa701nd	View/Edit data
+33	Travel Router	TP-Link	TL-MR3020	v1	12.09	15.05.1	400	4	32	1	-		No	b/g/n	-		1x 2.0	tl-mr3020	View/Edit data
+34	WiFi Router	TP-Link	TD-W8970	v1, v1.2	¿	15.05.1	2x 500	8	64	-	5		ADSL2+	b/g/n	-		2x 2.0	td-w8970	View/Edit data
+35	Travel Router	TP-Link	TL-WR720N	v3 (CN)	14.07	14.07	400	4	32	2	-		No	b/g/n	-		1x 2.0	tl-wr720n	View/Edit data
+36	WiFi Router	TP-Link	TL-WR710N	2.0 (EU)	14.07	15.05	400	4	32	2	-		No	b/g/n	-		1x 2.0	tl-wr710n	View/Edit data
+37	WiFi Router	TP-Link	TL-WA701ND	2	15.05	15.05.1	400	4	32	1	-		No	b/g/n	-		-	tl-wa701nd	View/Edit data
+38	Travel Router - Battery powered	TP-Link	TL-MR3040	v1	12.09	15.05	400	4	32	1	-		No	b/g/n	-		1x 2.0	tl-mr3040	View/Edit data
+39	WiFi Router	TP-Link	TL-CPE510	v1	14.07	15.05	560	8	64	2	-	1 (PoE) + 1 (PoE pass through)	No	-	a/n		-	tl-cpe510	View/Edit data
+40	Travel Router	TP-Link	TL-WR710N	1.2 (EU)	14.07	15.05	400	8	32	2	-		No	b/g/n	-		1x 2.0	tl-wr710n	View/Edit data
+41	WiFi Router	TP-Link	TL-WR1043ND	v1.x	10.03.1	15.05.1	400	8	32	-	5		No	b/g/n	-		1x 2.0	tl-wr1043nd	View/Edit data
+42	WiFi Router	TP-Link	TL-WR1041ND	v2	12.09	15.05	525	4	32	-	5		No	b/g/n	-		1x 2.0	tl-wr1041nd	View/Edit data
+43	WiFi Router	TP-Link	TD-W8960N	v1	12.09	12.09	2x 300	4	32	4	-		ADSL2+	b/g/n	-		-	td-w8960n	View/Edit data
+44	WiFi Router	TP-Link	TL-WR940N	1	10.03	10.03	400	4	32	5	-		No	b/g/n	-		-	tl-wr940n	View/Edit data
+45	WiFi Router	TP-Link	TL-WDR4300	1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7	14.07	15.05.1	560	8	128	-	5		No	b/g/n	a/n		2x 2.0	tl-wdr4300	View/Edit data
+46	WiFi Router	TP-Link	TL-WDR4900	1.0, 1.3	14.07	15.05.1	800	16	128	-	5		No	b/g/n	a/n		2x 2.0	tl-wdr4900	View/Edit data
+47	Travel Router - Battery powered	TP-Link	TL-MR3040	v2	14.07	14.07	400	4	32	1	-		No	b/g/n	-		1x 2.0	tl-mr3040	View/Edit data
+48	WiFi Router	TP-Link	TL-WDR4310	1.0	12.09	12.09	560	8	128	-	5		No	b/g/n	a/n		2x 2.0	tl-wdr4310	View/Edit data
+49	WiFi Router	TP-Link	TL-MR3420	v2, v2.1, v2.2, v2.3, v2.4	14.07	15.05	535	4	32	5	-		No	b/g/n	-		1x 2.0	tl-ap121	View/Edit data
+50	WiFi Router	TP-Link	TL-WR941ND	v6	15.05.1	15.05.1	750	4	32	5	-		No	b/g/n	-		Yes	tl-wr941nd	View/Edit data
+51	WiFi Router	TP-Link	TL-WR740N	v5 (EU)	15.05.1	15.05.1	¿	4	32	4	-		No	b/g/n	-		-	tl-wr740n	View/Edit data
+52	WiFi Router	TP-Link	TL-WR841N(D)	3	10.03	15.05	400	4	32	5	-		No	b/g/n	-		-	tl-wr841nd	View/Edit data
+53	WiFi Router	TP-Link	TL-WR741ND	1, 1.8	10.03	10.03	400	4	32	5	-		No	b/g/n	-		Mod	tl-wr741nd	View/Edit data
+54	WiFi Router	TP-Link	TL-WR741ND	v5	15.05.1	15.05.1	400	4	32	5	-		No	b/g/n	-		-	tl-wr741nd	View/Edit data
+55	WiFi Router	TP-Link	TL-WR1043ND	v2.x	14.07	15.05.1	720	8	64	-	5		No	b/g/n	-		1x 2.0	tl-wr1043nd	View/Edit data
+56	WiFi Router	TP-Link	TL-WA5210G	v1	8.09	10.03.1	180	4	16	1	-		No	b/g	-		-	tl-wa5210g	View/Edit data
+57	WiFi Router	TP-Link	TL-WA7510N	v1	12.09	15.05	350	4	32	1	-		No	-	a/n		-	tl-wa7510n	View/Edit data
+58	WiFi Router	TP-Link	TL-WR2543ND	v1.0	12.09	15.05	400	8	64	-	5		No	b/g/n	a/n		1x 2.0	tl-wr2543nd	View/Edit data
+59	WiFi Router	TP-Link	TL-WR741ND	v4.x	12.09	15.05	400	4	32	5	-		No	b/g/n	-		-	tl-wr741nd	View/Edit data
+60	WiFi Router	TP-Link	TL-WR710N	1.0 (US)	15.05	15.05	400	8	32	2	-		No	b/g/n	-		1x 2.0	tl-wr710n	View/Edit data
+61	WiFi Router	TP-Link	TL-WR740N	v4.23, v4.24	12.09	15.05	400	4	32	5			No	b/g/n	-		-	tl-wr740n	View/Edit data
+62	WiFi Router	TP-Link	TL-WR740N	1	10.03.1	15.05	400	4	32	5	-		No	b/g/n	-		Mod	tl-wr740n	View/Edit data
+63	WiFi Router	TP-Link	TL-WR740N	v3	12.09	15.05	400	4	32	5	-		No	b/g/n	-		Mod	tl-wr740n	View/Edit data
+64	WiFi Router	TP-Link	TL-WR842ND	v2	14.07	15.05.1	535	8	32	5	-		No	b/g/n	-		1x 2.0	tl-wr842nd	View/Edit data
+65	WiFi Router	TP-Link	TL-WR842ND	v1	12.09	15.05.1	400	8	32	5	-		No	b/g/n	-		1x 2.0	tl-wr842nd	View/Edit data
+66	WiFi Router	TP-Link	TL-WR941ND	v3.2	10.03.1	15.05	400	4	32	5	-		No	b/g/n	-		1x Header	tl-wr941nd	View/Edit data
+67	WiFi Router	TP-Link	TL-WR941ND	v2	10.03	15.05	400	4	32	5	-		No	b/g/n	-		1x Header	tl-wr941nd	View/Edit data
+68	WiFi Router	TP-Link	TL-WR941ND	v3	10.03.1	15.05	400	4	32	5	-		No	b/g/n	-		1x Header	tl-wr941nd	View/Edit data
+69	WiFi Router	TP-Link	TL-WR941ND	v4	10.03	15.05	400	4	32	5	-		No	b/g/n	-		1x Header	tl-wr941nd	View/Edit data
+70	WiFi Router	TP-Link	Archer C20i AC750	v1	15.05	15.05	580	8	64	5	-		No	b/g/n	a/n/ac	3x3 MIMO	1x 2.0	archer-c20i	View/Edit data
+71	WiFi Router	TP-Link	Archer C5 AC1200	1.20	14.07	15.05	720	16	128	-	5		No	b/g/n	a/n/ac	3x3:3 MIMO	2x 2.0	archer-c5-c7-wdr7500	View/Edit data
+72	WiFi Router	TP-Link	Archer C7 AC1750	1.0, 1.1	14.07	15.05	720	8	128	-	5		No	b/g/n	a/n/ac	3x3:3 MIMO; External antennas 5GHz only	2x 2.0	archer-c5-c7-wdr7500	View/Edit data
+73	WiFi Router	TP-Link	Archer C7 AC1750	2.0	14.07	15.05	720	16	128	-	5		No	b/g/n	a/n/ac	3x3:3 MIMO	2x 2.0	archer-c5-c7-wdr7500	View/Edit data
+74	WiFi Router	TP-Link	TL-WDR3600	1.1, 1.2, 1.3, 1.4, 1.5	14.07	15.05.1	560	8	128	-	5	1 WAN + 4x LAN	No	b/g/n	a/n	2x2 MIMO 2.4GHz, 2x2 MIMO 5GHz	2x 2.0	tl-wdr3600	View/Edit data
+75	WiFi Router	TP-Link	Archer C20	v1	external image	external image	580	16	64	4	-		No	b/g/n	a/n/ac		1x 2.0	tp-link_archer_c20_1	View/Edit data
+76	WiFi Router	TP-Link	TL-MR3220	1	10.03.1	15.05	400	4	32	5	-		No	b/g/n
+1	WiFi Router	Linksys	E1000	2.0, 2.1	14.07	15.05	300	4	32	5	-		No	b/g/n	-	Wireless PHY not supported.	-	e1000	View/Edit data
+2	WiFi Router	Linksys	EA3500		15.05	15.05	800	64	64	-	5		No	b/g/n	a/n	2x3:2 on 2.4GHz, 3x3:3 on 5.0GHz	1x 2.0	ea3500	View/Edit data
+3	WiFi Router	Linksys	WAG354G		10.03.1	12.09	150	4	16	4	-		ADSL2+	b/g	-		-	wag354g	View/Edit data
+4	WiFi Router	Linksys	WAG354G	v2	10.03.1	10.03.1	212	4	16	4	-		ADSL2+	b/g	-		-	wag354g	View/Edit data
+5	WiFi Router	Linksys	WRT54GS	1.0, 1.1, 2.0	0.9	15.05	200	8	32	5	-		No	b/g	-		-	wrt54g	View/Edit data
+6	WiFi Router	Linksys	WRT320N	v1	14.07	15.05	354	4	32	1	4		No	b/g/n	a/n		-	wrt320n	View/Edit data
+7	WiFi Router	Linksys	WRT400N	1.0	10.03	15.05	680	8	32	5	-		No	b/g/n	a/n		-		View/Edit data
+8	WiFi Router	Linksys	WRT600N	1.1	14.07	15.05	300	8	32	-	5		No	b/g/n	a/n	270Mbps	1x 2.0	linksys_wrt600n_1.1	View/Edit data
+9	WiFi Router	Linksys	WRT1900AC	v2 (cobra)	15.05	15.05	2x 1600	128NAND	512	-	5		No	b/g/n	a/n/ac	4x4:3 MIMO	1x 2.0, 1x 3.0	wrt_ac_series	View/Edit data
+10	WiFi Router	Linksys	WRTU54G-TM		12.09	12.09	200	8	64	5	-		No	b/g	-		Mod		View/Edit data
+11	Router	Linksys	AG241	v1	8.09.2	10.03.1	212	4	16	4	-		xDSL	-	-		-	ag241	View/Edit data
+12	Router	Linksys	AG241	v2	8.09.2	10.03.1	212	4	16	4	-		ADSL2+	-	-		-	ag241	View/Edit data
+13	Router	Linksys	AG241	v2b	8.09.2	10.03.1	212	4	16	4	-		xDSL	-	-		-	ag241	View/Edit data
+14	WiFi Router	Linksys	E3000	1.0	14.07	14.07	480	8	64	-	5		No	b/g/n	a/n		1x 2.0	e3000	View/Edit data
+15	WiFi Router	Linksys	E3200	1.0	14.07	14.07	500	16	64	-	5		No	b/g/n	a/n		1x 2.0	e3200	View/Edit data
+16	WiFi Router	Linksys	WRT160NL	1.0 (CUR01), 1.6 (CUR06)	10.03	15.05	400	8	32	5	-		No	b/g/n	-		Yes	wrt160nl	View/Edit data
+17	WiFi Router	Linksys	WRT1200AC	v1 (caiman), v2 (caiman)	15.05	15.05	2x 1300	128NAND	512	-	5		No	b/g/n	a/n/ac		1x 2.0, 1x 3.0	wrt_ac_series	View/Edit data
+18	WiFi Router	Linksys	WRT1900AC	v1 (mamba)	15.05	15.05	2x 1200	128NAND	256	-	5		No	b/g/n	a/n/ac	4x4:3 MIMO	1x 2.0, 1x 3.0	wrt_ac_series	View/Edit data
+19	WiFi Router	Linksys	E1700		¿	15.05.1	580	8	64	-	5		No	b/g/n	-		-	e1700	View/Edit data
+20	WiFi Router	Linksys	E1000	1.0	14.07	15.05	300	4	32	5	-		No	b/g/n	-		-	e1000	View/Edit data
+21	WiFi Router	Linksys	E2000	1.0	14.07	14.07	354	8	32	-	5		No	b/g/n	a/n		-	e2000	View/Edit data
+22	WiFi Router	Linksys	E4200	1.0	14.07	15.05.1	480	16	64	-	5		No	b/g/n	a/n	BCM4331 on E4200 is not supported, see https://forum.openwrt.org/viewtopic.php?pid=234084#p234084	1x 2.0		View/Edit data
+23	WiFi Router	Linksys	E4200	v2	15.05	15.05	1200	128	128	-	5		No	b/g/n	a/n	3x3:3 2.4GHz, 3x3:3 5.0GHz	1x 2.0	ea4500	View/Edit data
+24	WiFi Router	Linksys	E900	1.0	14.07	15.05	300	8	32	5	-		No	b/g/n	-	Broadcom 802.11n support is sketchy as ever; [2x2:2 bgn]	-	e900	View/Edit data
+25	WiFi Router	Linksys	EA4500	v1	15.05	15.05	1200	128	128	-	5		No	b/g/n	a/n	3x3:3 2.4GHz, 3x3:3 5.0GHz	1x 2.0	ea4500	View/Edit data
+26	WiFi Router	Linksys	WRT150N	v1	10.03	10.03.1	266	4	16	5	-		No	b/g/n	-		-	wrt150n	View/Edit data
+27	WiFi Router	Linksys	WRT310N	v2	15.05	15.05	300	4	32	-	5		No	b/g/n	-		-	wrt310n_v2	View/Edit data
+28	WiFi Router	Linksys	WRT350N v2	2.0, 2.1	10.03	10.03	500	8	32	-	5		No	b/g/n	-		1x 2.0	wrt350nv2	View/Edit data
+29	WiFi Router	Linksys	WRT54G	2.0, 2.2, 3.0	0.9	10.03.1	200	4	16	5	-		No	b/g	-		Mod	wrt54g	View/Edit data
+30	WiFi Router	Linksys	WRT54G-TM	1.0	0.9	0.9	200	8	32	5	-		No	b/g	-		-	wrt54g-tm	View/Edit data
+31	WiFi Router	Linksys	WRT54G3GV2(-VF)	1.0	10.03	10.03	264	16	32	5	-		No	b/g	-		3x 2.0	wrt54g3gv2-vf	View/Edit data
+32	WiFi Router	Linksys	WRT54G	1.0	0.9	10.03.1	125	4	16	5	-		No	b/g	-		-	wrt54g	View/Edit data
+33	WiFi Router	Linksys	WRT54G	1.1	0.9	10.03.1	125	4	16	5	-		No	b/g	-		-	wrt54g	View/Edit data
+34	WiFi Router	Linksys	WRT610N	2.0	14.07	14.07	480	8	64	-	5		No	b/g/n	a/n		1x 2.0	wrt610n	View/Edit data
+35	WiFi Router	Linksys	WRT610N	v1.0	10.03.1	10.03.1	300	8	64	-	5		No	b/g/n	a/n		1x 2.0	wrt610n	View/Edit data
+36	WiFi Router	Linksys	WRT54G	3.1	0.9	10.03.1	216	4	16	5	-		No	b/g	-		Mod	wrt54g	View/Edit data
+37	WiFi Router	Linksys	E1200	v2	14.07	15.05	¿	8	32	5	-		No	b/g/n	-		-	linksys_e1200_2	View/Edit data
+38	WiFi Router	Linksys	WRTSL54GS	1.0, 1.1	0.9	0.9	264	8	32	5	-		No	b/g	-		1x 2.0	wrtsl54gs	View/Edit data
+39	WiFi Router	Linksys	WRT54G	4.0	0.9	10.03.1	200	4	16	5	-		No	b/g	-		-	wrt54g	View/Edit data
+40	WiFi Router	Linksys	WRT54GL	1.0, 1.1	0.9	10.03.1	200	4	16	5	-		No	b/g	-		Mod	wrt54g	View/Edit data
+41	WiFi Router	Linksys	WRT54GS	3.0	0.9	0.9	200	8	32	5	-		No	b/g	-		Mod	wrt54g	View/Edit data
+42	WiFi Router	Linksys	WRT1900ACS	v1 (shelby), v2 (shelby)	15.05	15.05	2x 1600	128NAND	512	-	5		No	b/g/n	a/n/ac		1x 2.0, 1x 3.0	wrt_ac_series	View/Edit data
+43	WiFi Router	Linksys	E2500	v1		15.05.1	300	8	64	5	-		No	b/g/n	a/n		-	linksys_e2500_v1	View/Edit data
+44	WiFi Router	Linksys	E2500	v1		15.05.1	300	8	64	5	-		No	b/g/n	a/n		-	linksys_e2500_v1	toh:hwdata:linksys:linksys_e2500_1, View/Edit data
+45	WiFi Router	Linksys	WRT600N	1.1	14.07	15.05	300	8	32	-	5		No	b/g/n	a/n	270Mbps	1x 2.0	linksys_wrt600n_1.1	toh:hwdata:linksys:linksys_wrt600n_1.1, View/Edit data
+46	WiFi Router	Linksys	EA4500	v1	15.05	15.05	1200	128	128	-	5		No	b/g/n	a/n	3x3:3 2.4GHz, 3x3:3 5.0GHz	1x 2.0	ea4500	toh:hwdata:linksys:linksys_ea4500_1, View/Edit data
+47	WiFi Router	Linksys	WRT1900AC	v2 (cobra)	15.05	15.05	2x 1600	128NAND	512	-	5		No	b/g/n	a/n/ac	4x4:3 MIMO	1x 2.0, 1x 3.0	wrt_ac_series	toh:hwdata:linksys:linksys_wrt1900ac_v2, View/Edit data
+48	WiFi Router	Linksys	E4200	v2	15.05	15.05	1200	128	128	-	5		No	b/g/n	a/n	3x3:3 2.4GHz, 3x3:3 5.0GHz	1x 2.0	ea4500	toh:hwdata:linksys:linksys_e4200_v2, View/Edit data
+1	WiFi Router	D-Link	DSL-2650U/BRU/D	D1, D2 (RU)	10.03	10.03	2x 300	8	32	5	-		No	b/g	-		1x 2.0	dsl-2650u	View/Edit data
+2	WiFi Router	D-Link	DVA-G3810BN/TL	A1	14.07	14.07	2x 300	8	32	4	-		ADSL2+	b/g/n	-		1x 2.0	dva-g3810bn-tl	View/Edit data
+3	WiFi Router	D-Link	DIR-615	H1	12.09	12.09	400	4	32	5	-		No	b/g/n	-		-	dir-615	View/Edit data
+4	Travel Router	D-Link	DAP-1350	A1	12.09	15.05	384	8	32	1	-		No	b/g/n	-		1x 2.0	dap-1350	View/Edit data
+5	WiFi Router	D-Link	DIR-300	A1	10.03.1	10.03.1	183	4	16	5	-		No	b/g	-		-	dir-300	View/Edit data
+6	Travel Router	D-Link	DIR-505	A1, A2	14.07	15.05.1	400	8	64	1	-		No	b/g/n	-		1x 2.0	dir-505	View/Edit data
+7	WiFi Router	D-Link	DIR-615	I3	15.05.1	15.05.1	533	8	32	5	-		No	b/g/n	-		-	dir-615	View/Edit data
+8	WiFi Router	D-Link	DIR-615	I1	15.05.1	15.05.1	533	4	32	5	-		No	b/g/n	-		-	dir-615	View/Edit data
+9	WiFi Router	D-Link	DIR-615	C1, C2	10.03	15.05	400	4	32	5	-		No	b/g/n	-	2x2:2 MIMO	Mod	dir-615	View/Edit data
+10	WiFi Router	D-Link	DIR-320	B1	14.07	14.07	360	8	32	5	-		No	b/g/n	-		1x 2.0	dir-320_revb1	View/Edit data
+11	WiFi Router	D-Link	DIR-615	D1	¿	15.05.1	384	4	32	5	-		No	b/g/n	-		-	dir-615	View/Edit data
+12	WiFi Router	D-Link	DIR-300	B5, B6, B7	14.07	15.05.1	360	4	32	5	-		No	b/g/n	-	need to change default config	Mod	dir-300revb	View/Edit data
+13	WiFi Router	D-Link	DIR-601	A1	10.03	10.03	400	4	32	5	-		No	b/g/n	-		Mod	dir-600	View/Edit data
+14	WiFi Router	D-Link	DIR-835	A1	14.07	15.05	560	16	128	-	5		No	b/g/n	a/n		1x 2.0	dir-835	View/Edit data
+15	WiFi Router	D-Link	DCS-930L/DCS-932L	B1	14.07	14.07	320	4	32	1	-		No	b/g/n	-		-	dcs-930l	View/Edit data
+16	WiFi Router	D-Link	DGL-5500	rev A1	15.05	15.05	¿	¿	128	-	5		No	b/g/n	a/n/ac	3x3 MIMO	1x 2.0	dgl-5500	View/Edit data
+17	WiFi Router	D-Link	DIR-601	B1	14.07	15.05	400	4	32	5	-		No	b/g/n	-		-		View/Edit data
+18	WiFi Router	D-Link	DIR-615	E2, E3	10.03	15.05	400	4	32	5			No	b/g/n	-		Mod	dir-615	View/Edit data
+19	WiFi Router	D-Link	DIR-320	A1	10.03	10.03	240	4	32	5	-		No	b/g	-		1x 2.0	dir-320	View/Edit data
+20	WiFi Router	D-Link	DIR-860L	B1	15.05	15.05.1	2x 880	16	128	-	5		No	b/g/n	a/n/ac		1x 3.0	dir-860l	View/Edit data
+21	WiFi Router	D-Link	DIR-600	A1	10.03	15.05	400	4	32	5	-		No	b/g/n	-		-	dir-600	View/Edit data
+22	WiFi Router	D-Link	DIR-600	B1	12.09	15.05	320	4	32	5	-	4 LAN ports, and 1 WAN port, VLAN support might not work, though this may have been fixed.	No	b/g/n	-	According to country specific D-Link specifications, it appears that the antennae may not always be detachable.	-	dir-300revb	View/Edit data
+23	WiFi Router	D-Link	DIR-600	B2	12.09	15.05	320	4	32	5	-	4 LAN ports, and 1 WAN port, VLAN support might not work, though this may have been fixed.	No	b/g/n	-	According to country specific D-Link specifications, it appears that the antennae may not always be detachable.	-	dir-300revb	View/Edit data
+24	WiFi Router	D-Link	DIR-615	D3, D4	12.09	12.09	320	4	32	5	-		No	b/g/n	-		-	dir-615	View/Edit data
+25	WiFi Router	D-Link	DWL-2100AP	A2	10.03.1	10.03.1	180	4	16			1	No	b/g	-		-	dwl-2100ap	View/Edit data
+26	WiFi Router	D-Link	DIR-615	E1	10.03	15.05	400	4	32	5	-		No	b/g/n	-		Mod	dir-615	View/Edit data
+27	WiFi Router	D-Link	DIR-810L	B1	14.07	15.05	580	8	64	5	-		ADSL2+	b/g/n	a/n/ac	2x2:2 MIMO 2.4GHz, 1x1:1 MIMO 5GHz	-	dir-810l	View/Edit data
+28	WiFi Router	D-Link	DIR-645	A1	14.07	15.05	500	8	64	-	5		No	b/g/n	-	2x2:2	1x 2.0	dir-645	View/Edit data
+29	WiFi Router	D-Link	DIR-330	A1	15.05	15.05.1	264	8	32	5	-		No	b/g	-		1x 1.1	dir-330	View/Edit data
+30	WiFi Router	D-Link	DIR-825	B1, B2	12.09	12.09	680	8	64	-	5		No	b/g/n	a/n		Yes	dir-825	View/Edit data
+31	WiFi Router	D-Link	DIR-825	C1	14.07	14.07	560	16	128	-	5		No	b/g/n	a/n		Yes	dir-825	View/Edit data
+32	WiFi Router	D-Link	DIR-615	E4	10.03	15.05	400	4	32	5	-		No	b/g/n	-		Mod	dir-615	View/Edit data
+33	WiFi Router	D-Link	DSL-2640U	B2	10.03	15.05.1	256	4	16	4	-		ADSL2+	b/g	-		-	dsl-2640u	View/Edit data
+34	WiFi Router	D-Link	DIR-620	D1	14.07	15.05	400	8	32	5	-		No	b/g/n	-		1x 2.0	dir-620	View/Edit data
+35	Router	D-Link	DSL-504T	C3	10.03.1	10.03.1	211	4	16	4	-		ADSL2+	-	-		-	dsl-504t	View/Edit data
+36	WiFi Router	D-Link	DIR-620	A1	12.09	15.05	384	8	32	5	-		No	b/g/n	-		1x 2.0	dir-620	View/Edit data
+37	WiFi Router	D-Link	DIR-320	A2	12.09	15.05.1	240	4	32	5	-		No	b/g	-		1x 2.0	dir-320	View/Edit data
+38	WiFi Router	D-Link	DIR-600	B5E	14.07	15.05.1	360	4	32	5	-		No	b/g/n	-		-	dir-300revb	View/Edit data
+39	WiFi Router	D-Link	DSL-2640B	B2	10.03	15.05.1	256	4	16	4	-		ADSL2+	b/g	-		-	dsl-2640u	View/Edit data
+40	WiFi Router	D-Link	DIR-300	B1, B2, B3	12.09	15.05.1	320	4	32	5	-		No	b/g/n	-		-	dir-300revb	View/Edit data
+41	WiFi Router	D-Link	DIR-615	D1	¿	15.05.1	384	4	32	5	-		No	b/g/n	-
