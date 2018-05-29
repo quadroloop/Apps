@@ -7,7 +7,7 @@
 		<title>Quadroloop | Apps - A collection of Web Apps</title>
 	    <link rel="stylesheet" href="./css/apps.quantum.css">
 	</head>
-	<body onclick="toggleFullScreen();">
+	<body>
 		<script src="./js/three.min.js"></script>
 		<script src="./js/tween.min.js"></script>
 		<script src="./js/track-controller.js"></script>
@@ -35,7 +35,7 @@
 
 		
 			var table = [
-				"Hi", "Hydrogen", "1.00794", 1, 1,
+				"Gw", "git-watch", "BatchScript", 1, 1,
 				"He", "Helium", "4.002602", 18, 1,
 				"Li", "Lithium", "6.941", 1, 2,
 				"Be", "Beryllium", "9.012182", 2, 2,
@@ -178,6 +178,9 @@
 					var element = document.createElement( 'div' );
 					element.className = 'element';
 					element.style.backgroundColor = 'rgba(0,127,127,' + ( Math.random() * 0.5 + 0.25 ) + ')';
+					element.onclick = function() {
+						alert(this.innerHTML);
+					}
 
 					var number = document.createElement( 'div' );
 					number.className = 'number';
@@ -318,7 +321,7 @@
 				}, false );
 
 
-                
+             
 
 
 				var button = document.getElementById( 'table' );
