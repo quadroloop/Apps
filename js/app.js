@@ -259,9 +259,12 @@
 				controls.maxDistance = 6000;
 				controls.addEventListener( 'change', render );
 
+
+             
+
                      var mode = 0;
                     // main button UI
-					var button = document.getElementById( 'cyclone' );
+					var button = document.getElementById( 'switcher' );
 				button.addEventListener( 'click', function ( event ) {
                     switch(mode){
 					     case 0 :

@@ -125,7 +125,7 @@
  	transition: 1.2s;
  }
 
-#sbar {
+#settings {
     display: none; 
     position: fixed; 
     bottom: 15px; 
@@ -144,7 +144,7 @@
     transition: 0.8s;
 }
 
-#preferences {
+#search {
     display: none; 
     position: fixed; 
     bottom: 100px; 
@@ -162,8 +162,8 @@
     transition: 0.8s;
 }
 
-#qr {
-    display: none; 
+#switcher {
+    display: block; 
     position: fixed; 
     bottom: 120px; 
     right: 17px; 
@@ -177,11 +177,27 @@
     border-radius: 50%; 
     box-shadow: 0 0 10px #20F8F8;
     height: 20px;
+    width: 20px;
     transition: 0.8s;
 }
 
-.menu-icon {
+#switcher:hover {
 	background-color: #fff;
+	color: #333;
+ 	box-shadow: 0 0 40px #20F8F8;
+ 	transition: 1.2s;
+}
+
+#settings:hover {
+	background-color: #fff;
+	color: #333;
+ 	box-shadow: 0 0 40px #20F8F8;
+ 	transition: 1.2s;
+}
+
+#search:hover {
+	background-color: #fff;
+	color: #333;
  	box-shadow: 0 0 40px #20F8F8;
  	transition: 1.2s;
 }

@@ -6,6 +6,8 @@
 		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 		<title>Quadroloop | Apps - A collection of Web Apps</title>
 	    <link rel="stylesheet" href="./css/apps.quantum.css">
+	    <link rel="stylesheet" href="./css/animate.css">
+
 	    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 	</head>
 	<body>
@@ -13,7 +15,37 @@
 		<script src="./js/tween.min.js"></script>
 		<script src="./js/track-controller.js"></script>
 		<script src="./js/css-renderer.js"></script>
+        <script>
 
+                // open widgets 
+                var widgets = 0;
+                function open_widgets() {
+                	if(widgets == 0){
+                	   setTimeout("w1();",200);
+                       setTimeout("w2();",400);
+                       setTimeout("w3();",800);
+                       widgets++;
+                    }else{
+                       alert('wut');	
+
+                    }   
+                }
+
+                   function w1() {
+                  document.getElementById('switcher').style.display='block';
+                }
+
+                function w2() {
+                  document.getElementById('search').style.display='block';
+                }
+
+                function w3() {
+                   document.getElementById('settings').style.display='block';
+                }
+               
+               
+
+        </script>
 		<div id="container"></div>
 
  		<div id="menu">
@@ -27,8 +59,8 @@
 
       <a id="settings" class="animated menu-icon bounceIn"><i class="fa fa-braille"></i></a>
       <a id="search" onclick="window.reload();" class="animated menu-icon bounceIn"><i class="fa fa-cubes"></i></a>
-      <a id="switcher" class="animated menu-icon bounceIn"><i class="fa fa-th"></i></a>
-      <a id="cyclone" class="animated bounceIn"><img src="./img/selector.gif" class="icon" ></a>
+      <a id="switcher" class="animated menu-icon bounceIn"><i class="fa fa-sliders"></i></a>
+      <a id="cyclone" class="animated bounceIn" onclick="open_widgets();"><img src="./img/selector.gif" class="icon" ></a>
       <script src="./js/app.js"></script>
 	</body>
 </html>
