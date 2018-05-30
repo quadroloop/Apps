@@ -163,7 +163,7 @@
 }
 
 #switcher {
-    display: block; 
+    display: none; 
     position: fixed; 
     bottom: 120px; 
     right: 17px; 
@@ -178,6 +178,7 @@
     box-shadow: 0 0 10px #20F8F8;
     height: 20px;
     width: 20px;
+    font-size: 20px;
     transition: 0.8s;
 }
 
