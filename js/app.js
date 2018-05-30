@@ -1,4 +1,49 @@
 
+  // open widgets 
+                var widgets = 0;
+                function open_widgets() {
+                	if(widgets == 0){
+                	   setTimeout("w1();",200);
+                       setTimeout("w2();",400);
+                       setTimeout("w3();",800);
+                       widgets++;
+                    }else{
+                       setTimeout("w30();",200);
+                       setTimeout("w20();",400);
+                       setTimeout("w10();",800);
+                       widgets = 0;
+                    }   
+                }
+
+                   function w1() {
+                          document.getElementById('switcher').style.display='block';
+                } 
+
+                 function w2() {
+                          document.getElementById('search').style.display='block';
+                     
+                } 
+
+                 function w3() {
+                      
+                          document.getElementById('settings').style.display='block';
+                } 
+
+                function w10() {
+                	  document.getElementById('switcher').classList.add('bounceOut');
+                	  setTimeout("document.getElementById('switcher').classList.remove('bounceOut');",800);
+                	  setTimeout("document.getElementById('switcher').style.display='none';",800);
+                }
+                function w20() {
+                	 document.getElementById('search').classList.add('bounceOut');
+                	  setTimeout("document.getElementById('search').classList.remove('bounceOut');",800);
+                	  setTimeout("document.getElementById('search').style.display='none';",800);
+                }
+                 function w30() {
+                 	 document.getElementById('settings').classList.add('bounceOut');
+                 	  setTimeout("document.getElementById('settings').classList.remove('bounceOut');",800);
+                 	  setTimeout("document.getElementById('settings').style.display='none';",800);
+                 }
 
 
 		
