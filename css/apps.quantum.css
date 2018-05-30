@@ -115,43 +115,57 @@
     background-color: rgba(0, 127, 127, 0.39);
     border-radius: 50%; 
     height: 50px;
-    box-shadow: 0 0 20px #20F8F8;
+    box-shadow: 0 0 5px #20F8F8;
+    transition: 0.8s;
 }
+
+ #cyclone:hover {
+ 	background-color: #fff;
+ 	box-shadow: 0 0 40px #20F8F8;
+ 	transition: 1.2s;
+ }
 
 #sbar {
     display: none; 
     position: fixed; 
-    bottom: 105px; 
-    right: 17px; 
+    bottom: 15px; 
+    right: 130px; 
     z-index: 99; 
     border: none;
     outline: none; 
     color: white; 
     cursor: pointer; 
     padding: 10px; 
-    border-radius: 5px; 
     font-size: 18px; 
+     background-color: rgba(0, 127, 127, 0.39);
+    border-radius: 50%; 
+    box-shadow: 0 0 10px #20F8F8;
+    height:20px;
+    transition: 0.8s;
 }
 
 #preferences {
     display: none; 
     position: fixed; 
-    bottom: 180px; 
-    right: 17px; 
+    bottom: 100px; 
+    right: 110px; 
     z-index: 99; 
     border: none;
     outline: none; 
     color: white; 
     cursor: pointer; 
-    padding: 10px; 
-    border-radius: 5px; 
-    font-size: 18px; 
+    padding: 9px; 
+    background-color: rgba(0, 127, 127, 0.39);
+    border-radius: 50%; 
+    box-shadow: 0 0 10px #20F8F8;
+    height: 20px;
+    transition: 0.8s;
 }
 
 #qr {
     display: none; 
     position: fixed; 
-    bottom: 255px; 
+    bottom: 120px; 
     right: 17px; 
     z-index: 99; 
     border: none;
@@ -159,8 +173,17 @@
     color: white; 
     cursor: pointer; 
     padding: 10px; 
-    border-radius: 5px; 
-    font-size: 18px; 
+    background-color: rgba(0, 127, 127, 0.39);
+    border-radius: 50%; 
+    box-shadow: 0 0 10px #20F8F8;
+    height: 20px;
+    transition: 0.8s;
+}
+
+.menu-icon {
+	background-color: #fff;
+ 	box-shadow: 0 0 40px #20F8F8;
+ 	transition: 1.2s;
 }
 
 .icon {
